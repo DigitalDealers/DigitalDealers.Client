@@ -4,6 +4,13 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Company>Digital Dealers</Company>
     <Description>A client library for Digital Dealers Platform.</Description>
+    <Version>1.0.1</Version>
+    <PackageLicenseUrl>https://github.com/DigitalDealers/DigitalDealers.Client/blob/master/DigitalDealers.Client/License.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/DigitalDealers/DigitalDealers.Client</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/DigitalDealers/DigitalDealers.Client</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>C#, Digital Dealers</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>

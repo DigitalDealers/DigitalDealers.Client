@@ -248,13 +248,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "c:\\users\\nicksav\\documents\\visual studio 2017\\Projects\\DigitalDealers.Client\\DigitalDealers.Client\\DigitalDealers.Client.csproj",
+      "projectUniqueName": "C:\\Users\\nicksav\\documents\\visual studio 2017\\Projects\\DigitalDealers.Client\\DigitalDealers.Client\\DigitalDealers.Client.csproj",
       "projectName": "DigitalDealers.Client",
-      "projectPath": "c:\\users\\nicksav\\documents\\visual studio 2017\\Projects\\DigitalDealers.Client\\DigitalDealers.Client\\DigitalDealers.Client.csproj",
+      "projectPath": "C:\\Users\\nicksav\\documents\\visual studio 2017\\Projects\\DigitalDealers.Client\\DigitalDealers.Client\\DigitalDealers.Client.csproj",
       "packagesPath": "C:\\Users\\nicksav\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\nicksav\\documents\\visual studio 2017\\Projects\\DigitalDealers.Client\\DigitalDealers.Client\\obj\\",
+      "outputPath": "C:\\Users\\nicksav\\documents\\visual studio 2017\\Projects\\DigitalDealers.Client\\DigitalDealers.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

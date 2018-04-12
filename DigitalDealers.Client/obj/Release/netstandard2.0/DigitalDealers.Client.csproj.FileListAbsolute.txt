@@ -1,0 +1,8 @@
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Client\bin\Release\netstandard2.0\DigitalDealers.Client.deps.json
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Client\bin\Release\netstandard2.0\DigitalDealers.Client.dll
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Client\bin\Release\netstandard2.0\DigitalDealers.Client.pdb
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Client\obj\Release\netstandard2.0\DigitalDealers.Client.csproj.CoreCompileInputs.cache
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Client\obj\Release\netstandard2.0\DigitalDealers.Client.AssemblyInfoInputs.cache
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Client\obj\Release\netstandard2.0\DigitalDealers.Client.AssemblyInfo.cs
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Client\obj\Release\netstandard2.0\DigitalDealers.Client.dll
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Client\obj\Release\netstandard2.0\DigitalDealers.Client.pdb

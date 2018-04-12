@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DigitalDealers.Client</id>
+    <title>DigitalDealers.Client</title>
+    <Owners>Digital Dealers</Owners>
+    <version>1.0.1</version>
+    <authors>DigitalDealers.Client</authors>
+    <owners>DigitalDealers.Client</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/DigitalDealers/DigitalDealers.Client/blob/master/DigitalDealers.Client/License.md</licenseUrl>
+    <projectUrl>https://github.com/DigitalDealers/DigitalDealers.Client</projectUrl>
+    <description>A client library for Digital Dealers Platform.</description>
+    <tags>C#, Digital Dealers</tags>
+    <repository type="GitHub" url="https://github.com/DigitalDealers/DigitalDealers.Client" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Rest.ClientRuntime" version="2.3.11" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Client\bin\Release\netstandard2.0\DigitalDealers.Client.dll" target="lib\netstandard2.0\DigitalDealers.Client.dll" />
+  </files>
+</package>
