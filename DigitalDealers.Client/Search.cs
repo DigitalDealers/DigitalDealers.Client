@@ -72,7 +72,7 @@ namespace DigitalDealers.Client
         /// <return>
         /// A response object containing the response body and response headers.
         /// </return>
-        public async Task<HttpOperationResponse<Models.Search>> ExecuteSearch(int? searchId, string query, int? offset, int? limit, Dictionary<string, List<string>> customHeaders = null, CancellationToken cancellationToken = default(CancellationToken))
+        public async Task<HttpOperationResponse<Models.Search>> ExecuteSearchWithHttpMessagesAsync(int? searchId, string query, int? offset, int? limit, Dictionary<string, List<string>> customHeaders = null, CancellationToken cancellationToken = default(CancellationToken))
         {
             if (searchId == null)
             {

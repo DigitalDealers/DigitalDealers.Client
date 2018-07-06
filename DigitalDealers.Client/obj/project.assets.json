@@ -248,7 +248,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "restore": {
       "projectUniqueName": "C:\\Users\\nicksav\\documents\\visual studio 2017\\Projects\\DigitalDealers.Client\\DigitalDealers.Client\\DigitalDealers.Client.csproj",
       "projectName": "DigitalDealers.Client",

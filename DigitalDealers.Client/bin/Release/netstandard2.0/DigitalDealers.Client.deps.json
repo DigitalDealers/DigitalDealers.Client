@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "DigitalDealers.Client/1.0.1": {
+      "DigitalDealers.Client/1.0.2": {
         "dependencies": {
           "Microsoft.Rest.ClientRuntime": "2.3.11",
           "NETStandard.Library": "2.0.1",
@@ -40,7 +40,7 @@
     }
   },
   "libraries": {
-    "DigitalDealers.Client/1.0.1": {
+    "DigitalDealers.Client/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
