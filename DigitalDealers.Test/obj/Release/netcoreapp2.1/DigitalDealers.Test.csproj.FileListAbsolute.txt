@@ -1,0 +1,17 @@
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\obj\Release\netcoreapp2.1\DigitalDealers.Test.csproj.CoreCompileInputs.cache
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\obj\Release\netcoreapp2.1\DigitalDealers.Test.RazorAssemblyInfo.cache
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\obj\Release\netcoreapp2.1\DigitalDealers.Test.RazorAssemblyInfo.cs
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\obj\Release\netcoreapp2.1\DigitalDealers.Test.AssemblyInfoInputs.cache
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\obj\Release\netcoreapp2.1\DigitalDealers.Test.AssemblyInfo.cs
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\bin\Release\netcoreapp2.1\DigitalDealers.Test.deps.json
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\bin\Release\netcoreapp2.1\DigitalDealers.Test.runtimeconfig.json
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\bin\Release\netcoreapp2.1\DigitalDealers.Test.runtimeconfig.dev.json
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\bin\Release\netcoreapp2.1\DigitalDealers.Test.dll
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\bin\Release\netcoreapp2.1\DigitalDealers.Test.pdb
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\bin\Release\netcoreapp2.1\DigitalDealers.Client.dll
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\bin\Release\netcoreapp2.1\DigitalDealers.Client.pdb
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\obj\Release\netcoreapp2.1\DigitalDealers.Test.csprojAssemblyReference.cache
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\obj\Release\netcoreapp2.1\DigitalDealers.Test.RazorTargetAssemblyInfo.cache
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\obj\Release\netcoreapp2.1\DigitalDealers.Test.csproj.CopyComplete
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\obj\Release\netcoreapp2.1\DigitalDealers.Test.dll
+C:\Users\nicksav\documents\visual studio 2017\Projects\DigitalDealers.Client\DigitalDealers.Test\obj\Release\netcoreapp2.1\DigitalDealers.Test.pdb

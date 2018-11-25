@@ -3,6 +3,7 @@ using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Dynamic;
 using System.Linq;
 using System.Text;
 
@@ -70,6 +71,43 @@ namespace DigitalDealers.Client.Models
 
             return response;
         }
+
+        public virtual List<dynamic> GetByColumns(List<string> columns = null)
+        {
+            if (this.HeaderRows == null)
+                throw new ValidationException(ValidationRules.CannotBeNull, "Data Set Result");
+
+            List<dynamic> rows = new List<dynamic>();
+            foreach (var headerrow in this.HeaderRows)
+            {
+                dynamic expando = new ExpandoObject();
+                foreach (var headerRowValue in headerrow.Values)
+                {
+                    if (columns != null)
+                    {
+                        if (columns.Contains(headerRowValue.Name))
+                        {
+                            var expandoDict = expando as IDictionary<string, object>;
+                            if (expandoDict.ContainsKey(headerRowValue.Name))
+                                expandoDict[headerRowValue.Name] = headerRowValue.Value;
+                            else
+                                expandoDict.Add(headerRowValue.Name, headerRowValue.Value);
+                        }
+                    } else
+                    {
+                        var expandoDict = expando as IDictionary<string, object>;
+                        if (expandoDict.ContainsKey(headerRowValue.Name))
+                            expandoDict[headerRowValue.Name] = headerRowValue.Value;
+                        else
+                            expandoDict.Add(headerRowValue.Name, headerRowValue.Value);
+                    }
+                }
+                rows.Add(expando);
+            }
+
+            return rows;
+        }
+
 
         public virtual void Validate()
         {

@@ -11,5 +11,7 @@ namespace DigitalDealers.Client
     public partial interface ISearch
     {
         Task<HttpOperationResponse<Models.Search>> ExecuteSearchWithHttpMessagesAsync(int? searchId, string query, int? offset, int? limit, Dictionary<string, List<string>> customHeaders = null, CancellationToken cancellationToken = default(CancellationToken));
+        Task<HttpOperationResponse<Models.Search>> PostExecuteSearchWithHttpMessagesAsync(string[] items, int? searchId, string query, int? offset, int? limit, Dictionary<string, List<string>> customHeaders = null, CancellationToken cancellationToken = default(CancellationToken));
+        
     }
 }
